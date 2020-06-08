@@ -9,9 +9,9 @@ export default {
     dbName: 'test',
     type: 'postgresql',
     host: 'localhost',
-    port: 5432,
     user: 'test',
     password: 'test',
+    port: 5432,
     debug: true,
     //logger: console.log.bind(console)
 };
